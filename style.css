@@ -14,12 +14,12 @@
 /* Table */
 
 .redesigned-theme-2018 .paging-context table tbody td.selected var {
-    color: #1e4794;
+    color: #1e4794 !important;
     height: 20px;
     width: 20px;
-    -webkit-box-shadow: 0 0 0 1px #1e4794;
-    box-shadow: 0 0 0 1px #1e4794;
-    background: #1e4794;
+    -webkit-box-shadow: 0 0 0 1px #1e4794 !important;
+    box-shadow: 0 0 0 1px #1e4794 !important;
+    background: #1e4794 !important;
 }
 
 /* Form */
@@ -37,7 +37,7 @@
 }
 
 .redesigned-theme-2018 input.checkbox:checked+label.choice:before {
-    background-color: #1e4794;
+    background-color: #1e4794 !important;
 }
 
 .redesigned-theme-2018 .wufoo .wufoo-file-upload {
@@ -54,8 +54,7 @@
 
 .redesigned-theme-2018 input.btTxt {
     background-color: #1e4794 !important;
-    font-family: Roboto;
-    border: 1px solid #1e4794;
+    border: 1px solid #1e4794 !important;
 }
 
 /* Form Input */
