@@ -41,15 +41,15 @@
 }
 
 .redesigned-theme-2018 .wufoo .wufoo-file-upload {
-    width: 100%;
-    border: 1px solid #1e4794;
+    width: 100% !important;
+    border: 1px solid #1e4794 !important;
 }
 
 /* Buttons */
 
 .redesigned-theme-2018 button#previousPageButton {
-    color: #1e4794;
-    border: 1px solid #1e4794;
+    color: #1e4794 !important;
+    border: 1px solid #1e4794 !important;
 }
 
 .redesigned-theme-2018 input.btTxt {
