@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
+#logo {
+    background-color: #1e4794;
+}
+
+.redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
+    background-size: 100px !important;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: rgba(30,71,148,.05);
