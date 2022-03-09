@@ -25,19 +25,31 @@
 /* Form */
 
 .redesigned-theme-2018 form span.req {
-    color: #1e4794 !important;
+    color: #1e4794!important;
 }
 
 .redesigned-theme-2018 .wufoo li {
     padding: 10px!important;
 }
 
-.redesigned-theme-2018 .wufoo label.desc {
+.redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc {
     color: #78909c !important;
 }
 
 .redesigned-theme-2018 input.checkbox:checked+label.choice:before {
     background-color: #1e4794;
+}
+
+.redesigned-theme-2018 .wufoo .wufoo-file-upload {
+    width: 100%;
+    border: 1px solid #1e4794;
+}
+
+/* Buttons */
+
+.redesigned-theme-2018 button#previousPageButton {
+    color: #1e4794;
+    border: 1px solid #1e4794;
 }
 
 .redesigned-theme-2018 input.btTxt {
@@ -53,5 +65,9 @@
 }
 
 input.medium, select.medium {
+    width: 100%;
+}
+
+label.choice {
     width: 100%;
 }
