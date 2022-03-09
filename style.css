@@ -31,6 +31,10 @@ body {
     text-decoration: none !important;
 }
 
+.redesigned-theme-2018 .wufoo .info div span {
+    font-weight: bold;
+}
+
 /* Table */
 
 .redesigned-theme-2018 .paging-context table tbody td.selected var {
