@@ -41,6 +41,11 @@ body {
     background: #1e4794 !important;
 }
 
+.redesigned-theme-2018 .paging-context table tbody td.selected b {
+    font-weight: 400;
+    color: #1e4794 !important;
+}
+
 /* Form */
 
 .redesigned-theme-2018 form span.req {
