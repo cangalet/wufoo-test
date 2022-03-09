@@ -26,6 +26,10 @@ body {
     font-size: 14px !important;
 }
 
+.redesigned-theme-2018 .wufoo .info div a {
+    text-decoration: none !important;
+}
+
 /* Table */
 
 .redesigned-theme-2018 .paging-context table tbody td.selected var {
